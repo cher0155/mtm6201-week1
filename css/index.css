@@ -3,10 +3,11 @@ html {
 }
 
 h1 {
+   background-color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    color: black;
 }
 
-image {
-    width: 150px;
+img {
+    width: 300px;
 }
